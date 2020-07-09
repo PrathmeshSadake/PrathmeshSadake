@@ -6,4 +6,3 @@ A Passion for music and programming.My Strength is takes Initiative to work inde
 to any kind of situation in estranged group & Helping tendency.
 My Weakness is I am not comfortable, until I finish my work in the given time & over friendly in nature.
 **My Short term goal is to get the job in reputed company.My Long term goal is to become more responsible and knowledgeable personality and on respectable position on my company.**
-That's all about me! Thank you very much for giving a great opportunity to introduce my self behind you.
