@@ -5,7 +5,7 @@
 </a>
 
 
-Hi I'm [Prathmesh]👋 (https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
+Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
 
 **Languages and Tools:**  
 
