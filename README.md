@@ -11,3 +11,6 @@ My self Prathmesh, I belong from Navi Mumbai, Maharashtra.I am pursuing my under
   <li>React.js</li>
   <li>Python</li>
 </ul>
+
+
+[![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=PrathmeshSadake)](https://github.com/prathmeshsadake/github-readme-stats)
