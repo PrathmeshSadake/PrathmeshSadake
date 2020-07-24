@@ -3,6 +3,10 @@
 <a href="https://twitter.com/prathmeshsadake">
   <img align="left" alt="PrathmeshSadake | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<a href="https://instagram.com/prxthmesh">
+  <img align="left" alt="PrathmeshSadake | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+</a>
+</br>
 </br>
 
 Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
@@ -20,11 +24,9 @@ Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-<a href="https://github.com/prathmeshsadake">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&theme=tokyonight&hide_langs_below=10" />
-</a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&theme=tokyonight&hide_langs_below=10" />
 </br>
-<a href="https://github.com/prathmeshsadake">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=tokyonight&line_height=27" alt="Prathmesh's github stats" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=tokyonight&line_height=27" alt="Prathmesh's github stats" />
+
 
