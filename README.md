@@ -24,6 +24,6 @@ Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&theme=tokyonight&hide_langs_below=10" />
 </a>
 <a href="https://github.com/prathmeshsadake">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=tokyonight&line_height=27" alt="Prathmesh's github stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=tokyonight&line_height=27" alt="Prathmesh's github stats" />
 </a>
 
