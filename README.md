@@ -3,7 +3,7 @@
 <a href="https://twitter.com/prathmeshsadake">
   <img align="left" alt="PrathmeshSadake | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+</br>
 
 Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
 
@@ -23,6 +23,7 @@ Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer 
 <a href="https://github.com/prathmeshsadake">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&theme=tokyonight&hide_langs_below=10" />
 </a>
+</br>
 <a href="https://github.com/prathmeshsadake">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=tokyonight&line_height=27" alt="Prathmesh's github stats" />
 </a>
