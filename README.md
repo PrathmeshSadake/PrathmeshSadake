@@ -32,9 +32,11 @@ Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer 
 
 <p align="left">
   <b>I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people</b>.
-</p>  
+</p>
+<p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&theme=tokyonight&hide_langs_below=10" />
-</br>
+</p></br>
+<p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=tokyonight&line_height=27" alt="Prathmesh's github stats" />
-
+</p>
 
