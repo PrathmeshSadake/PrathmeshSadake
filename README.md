@@ -23,7 +23,7 @@ I’d love to combine my passion for learning and developing with my software de
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Web Application Development;
-- 🌱 I’m currently learning C++ and React.js; 
+- 🌱 I’m currently learning python and java; 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: bhandwalkar.payal@gmail.com;
