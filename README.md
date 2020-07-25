@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <a href="https://twitter.com/prathmeshsadake">
   <img align="left" alt="PrathmeshSadake | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
