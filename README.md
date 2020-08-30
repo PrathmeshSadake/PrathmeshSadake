@@ -18,9 +18,11 @@
 
 Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <!--  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&theme=tokyonight&hide_langs_below=10" /> -->
-  
+
+
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Programming
@@ -29,8 +31,9 @@ I’d love to combine my passion for learning and developing with my software de
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: prathmeshsadake@gmail.com
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
+<!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
+-->
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
