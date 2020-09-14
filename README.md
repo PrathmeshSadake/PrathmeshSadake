@@ -19,7 +19,6 @@
 Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<!--  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&theme=tokyonight&hide_langs_below=10" /> -->
 
 
 
@@ -41,8 +40,8 @@ I’d love to combine my passion for learning and developing with my software de
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=tokyonight&line_height=27" alt="Prathmesh's github stats" /> -->
+<br>
+<br><br><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&card_width=410&theme=buefy&langs_count=6&hide=Dockerfile" />             <img align="right" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&include_all_commits&theme=buefy&line_height=33" alt="Prathmesh's github stats" />
 
 
