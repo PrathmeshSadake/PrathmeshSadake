@@ -17,7 +17,7 @@
 Hi I'm [Payal](https://www.github.com/PayalBhandwalker), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
 
- 
+ <img align="right" alt="GIF" src="https://github.com/PayalBhandwalkar/PayalBhandwalkar/blob/master/giphy.gif?raw=true" width="350" />
   
 **Talking about Personal Stuffs:**
 
