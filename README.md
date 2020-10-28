@@ -38,6 +38,7 @@ I’d love to combine my passion for learning and developing with my software de
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <br><br><br><br>
 <br><br><br>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&include_all_commits=true&theme=buefy&line_height=33" alt="Prathmesh's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&card_width=300&theme=bue&langs_count=4&hide=Dockerfile" />  
+[![prathmesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrathmeshSadake)](https://github.com/PrathmeshSadake)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&layout=compact)](https://github.com/prathmeshsadake)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&card_width=300&theme=bue&langs_count=5&hide=Dockerfile" />  
 
 
