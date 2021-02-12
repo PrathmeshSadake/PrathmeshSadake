@@ -14,11 +14,11 @@
   <img align="left" alt="PrathmeshSadake | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
 </br>
-</br>
 
 Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
-I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" />
+I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&layout=compact)](https://github.com/prathmeshsadake) 
+<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" />-->
 
 
 **Talking about Personal Stuffs:**
@@ -36,9 +36,7 @@ I’d love to combine my passion for learning and developing with my software de
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<br><br><br><br>
-<br><br><br>
+<br>
 [![prathmesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrathmeshSadake)](https://github.com/PrathmeshSadake)![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&layout=compact)](https://github.com/prathmeshsadake) 
 
 
