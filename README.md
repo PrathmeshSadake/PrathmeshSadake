@@ -14,13 +14,12 @@
   <img align="left" alt="PrathmeshSadake | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
 </br>
+</br>
 
 Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people.</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&layout=compact)](https://github.com/prathmeshsadake) 
-<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" />-->
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prathmeshsadake@gmail.com</br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&layout=compact)](https://github.com/prathmeshsadake)-->
+**Weekly Coding stats**</br>
 [![prathmesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrathmeshSadake)](https://github.com/PrathmeshSadake)![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true)
 
 
