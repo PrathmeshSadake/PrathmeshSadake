@@ -20,6 +20,6 @@ Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer 
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people.</br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PrathmeshSadake&layout=compact&line_height=1.5&custom_title=Weekly-Coding-Stats&theme=algolia"/>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&theme=algolia" />
 
 
