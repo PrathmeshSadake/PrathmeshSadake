@@ -28,27 +28,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-## Languages and Tools  
-<div align="left">  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />  
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />  -->
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" />   -->
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" />   -->
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35" />   -->
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35" />   -->
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" />  
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />   -->
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35" />  
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="35" />   -->
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />  
-<!-- <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />   -->
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="35" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" />  
-</div>  
-
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
