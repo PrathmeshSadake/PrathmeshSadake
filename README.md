@@ -23,7 +23,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer. Being a full-stack allows me to develop client-facing apps and websites and develop them with cutting-edge back-end support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people.
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I’d love to combine my passion for learning with my software development skills to continue building personalized products for people.
   
 
 <br/>  
