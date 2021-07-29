@@ -36,7 +36,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&hide_border=true&layout=compact&langs_count=8" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
