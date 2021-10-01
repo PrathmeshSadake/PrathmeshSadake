@@ -44,5 +44,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=prathmeshsadake&&style=flat-square)  
-  
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
