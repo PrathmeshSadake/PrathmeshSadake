@@ -42,7 +42,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=prathmeshsadake&&style=flat-square)  
+<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=prathmeshsadake&&style=flat-square)   -->
   
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
