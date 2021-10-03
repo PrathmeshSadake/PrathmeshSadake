@@ -1,44 +1,46 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=PrathmeshSadake.PrathmeshSadake)
+## Hey 👋, I'm Prathmesh Sadake!  
+  
 
-<a href="https://twitter.com/prathmeshsadake">
-  <img align="left" alt="PrathmeshSadake | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/prathmeshsadake" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/prxthmesh">
-  <img align="left" alt="PrathmeshSadake | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+<a href="https://github.com/prathmeshsadake" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/prathamesh.sadake">
-  <img align="left" alt="PrathmeshSadake | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+<a href="https://twitter.com/prathmeshsadake" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/prathmeshsadake">
-  <img align="left" alt="PrathmeshSadake | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+<a href="https://linkedin.com/in/prathmeshsadake" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</br>
-</br>
-
-Hi I'm [Prathmesh](https://prathmeshsadake.github.io), a Frontend Web Developer & Computer Science Engineer who loves building webpages and Software products.
-I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" /> -->
+<a href="https://instagram.com/prxthmesh" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
 
-**Talking about Personal Stuffs:**
 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prathmeshsadake@gmail.com
+### Glad to see you here!  
+I’m a full-stack developer. Being a full-stack allows me to develop client-facing apps and websites and develop them with cutting-edge back-end support.
 
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I’d love to combine my passion for learning with my software development skills to continue building personalized products for people.
+  
 
-<!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
-
-**Languages and Tools:**  
-
-<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<br><br><br><br>
-<br><br><br>
-<!--[![prathmesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrathmeshSadake)](https://github.com/PrathmeshSadake)![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&layout=compact)](https://github.com/prathmeshsadake) 
+<br/>  
 
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=prathmeshsadake&&style=flat-square)  
