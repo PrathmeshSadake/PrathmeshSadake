@@ -42,4 +42,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p>
+<!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
