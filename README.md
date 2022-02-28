@@ -21,9 +21,9 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer. Being a full-stack allows me to develop client-facing apps and websites and develop them with cutting-edge back-end support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I’d love to combine my passion for learning with my software development skills to continue building personalized products for people.
+I'm looking for an interesting project to work on as a full-stack engineer. I focus on providing accessible HTML, CSS that is up to date, and clean JavaScript. As a full-stack developer, I can create client-facing apps and websites with cutting-edge back-end support. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
+I specialize in creating solid backends for your app or website that handle all of the heavy liftings. I enjoy creating systems that are both light and powerful, distributed yet coordinated, and beautiful yet functional. I'd like to continue producing individualized goods for people by combining my passion for learning with my software development talents.
+Despite the fact that I am based in Mumbai, India, I am used to working remotely.
   
 
 <br/>  
