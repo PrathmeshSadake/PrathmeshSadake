@@ -23,10 +23,18 @@
 ### Glad to see you here!  
 I have worked hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. I have worked with real-world datasets to learn the statistical and machine learning techniques I need to perform hypothesis testing and build predictive models. I know how to process data for features, train models, assess performance, and tune parameters for better performance.
 
-I am a collaborative person but sometimes I get nervous and self-conscious in social situations.Also I enjoy making people around me laugh.
+I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
 
 
 <br/>  
+
+### Technologies I have previously worked with:
+
+- Python, JavaScript, C/C++, HTML, CSS 3
+- Machine Learning and Deep Learning libraries Scikit Learn, Pytorch, Keras
+- Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
+- Tensorflow 2.0
+- MERN Stack
 
 
 ## Github Stats  
