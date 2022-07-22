@@ -21,10 +21,10 @@
 
 
 ### Glad to see you here!  
-I'm a full-stack engineer. I focus on providing accessible HTML, CSS that is up to date, and clean JavaScript. As a full-stack developer, I can create client-facing apps and websites with cutting-edge back-end support. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
+I have worked hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. I have worked with real-world datasets to learn the statistical and machine learning techniques I need to perform hypothesis testing and build predictive models. I know how to process data for features, train models, assess performance, and tune parameters for better performance.
 
-I specialize in creating solid backends for your app or website that handle all of the heavy liftings. I enjoy creating systems that are both light and powerful, distributed yet coordinated, and beautiful yet functional. I'd like to continue producing individualized goods for people by combining my passion for learning with my software development talents.
-  
+I am a collaborative person but sometimes I get nervous and self-conscious in social situations.Also I enjoy making people around me laugh.
+
 
 <br/>  
 
