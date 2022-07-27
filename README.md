@@ -17,16 +17,13 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I have worked hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. I have worked with real-world datasets to learn the statistical and machine learning techniques I need to perform hypothesis testing and build predictive models. I know how to process data for features, train models, assess performance, and tune parameters for better performance.
 
 I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
+<br/>
 
-
-<br/>  
+<img src="https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/Data-scientist-what-I-do.jpg" width="%"/>
 
 ### Technologies I have previously worked with:
 
