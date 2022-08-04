@@ -23,7 +23,7 @@ I have worked hands-on with some of the most popular Python libraries, including
 I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
 <br/>
 
-<img src="https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/Data-scientist-what-I-do.jpg" width="%"/>
+<!--<img src="https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/Data-scientist-what-I-do.jpg" width="%"/>-->
 
 ### Technologies I have previously worked with:
 
