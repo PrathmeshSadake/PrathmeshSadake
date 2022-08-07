@@ -30,7 +30,7 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 - Python, JavaScript, C/C++, HTML, CSS 3
 - Machine Learning and Deep Learning libraries Scikit Learn, Pytorch, Keras
 - Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
-- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+- MERN Stack (MongoDB, ExpressJS, ReactJS, React Native, NodeJS)
 
 
 ## Github Stats  
