@@ -18,7 +18,7 @@
 </a>  
   
 ### Glad to see you here!  
-I have worked hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. I have worked with real-world datasets to learn the statistical and machine learning techniques I need to perform hypothesis testing and build predictive models. I know how to process data for features, train models, assess performance, and tune parameters for better performance.
+I'm a full-stack engineer. As a full-stack developer, I can create client-facing apps and websites with cutting-edge back-end support. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required. I have also worked hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. I have worked with real-world datasets to learn the statistical and machine learning techniques I need to perform hypothesis testing and build predictive models. I know how to process data for features, train models, assess performance, and tune parameters for better performance.
 
 I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
 <br/>
