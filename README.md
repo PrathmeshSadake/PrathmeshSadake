@@ -18,19 +18,21 @@
 </a>  
   
 ### Glad to see you here!  
-I'm a full-stack engineer. As a full-stack developer, I can create client-facing apps and websites with cutting-edge back-end support. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required. I have also worked hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. I have worked with real-world datasets to learn the statistical and machine learning techniques I need to perform hypothesis testing and build predictive models. I know how to process data for features, train models, assess performance, and tune parameters for better performance.
+Power-packed with the strengths of data structures and algorithms. I can perform modifications in various software, according to client requirements, by applying the principles of computer science, with the goal of optimising an application for better performance delivery.
+
+I can create client-facing apps and websites with cutting-edge back-end support. I have worked with modern tools including Next.js, React.js, MongoDB, Node, Express.js, Firebase and Postman. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
 
 I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
 <br/>
 
-<!--<img src="https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/Data-scientist-what-I-do.jpg" width="%"/>-->
 
 ### Technologies I have previously worked with:
 
-- Python, JavaScript, C/C++, HTML, CSS 3
-- Machine Learning and Deep Learning libraries Scikit Learn, Pytorch, Keras
+- JavaScript, C/C++, HTML, CSS 3, Python
 - Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
-- MERN Stack (MongoDB, ExpressJS, ReactJS, React Native, NodeJS)
+- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
+- CSS frameworks and libraries like Material UI, Bootstrap, Tailwind CSS
+- CMS such as Strapi and Sanity
 
 
 ## Github Stats  
@@ -47,3 +49,5 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 <br/>  
 
 <!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshsadake" alt="prathmeshsadake" /></p>
