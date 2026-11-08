@@ -1,53 +1,30 @@
-## Hey 👋, I'm Prathmesh Sadake!  
-  
+## Hi 👋, I'm Prathmesh Sadake
 
-<a href="https://www.facebook.com/prathmeshsadake" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/prathmeshsadake" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/prathmeshsadake" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/prathmeshsadake" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/prxthmesh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-### Glad to see you here!  
-Power-packed with the strengths of data structures and algorithms. I can perform modifications in various software, according to client requirements, by applying the principles of computer science, with the goal of optimising an application for better performance delivery.
+<a href="https://prathmeshsadake.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://linkedin.com/in/prathmeshsadake"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/prathmeshsadake"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/prxthmesh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-I can create client-facing apps and websites with cutting-edge back-end support. I have worked with modern tools including Next.js, React.js, MongoDB, Node, Express.js, Firebase and Postman. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
+### About me
+I am a **Lead Software Engineer** at **Build Fast with AI**. I joined the founding team as an intern in 2023 and later accepted Full-Time Offer as a Founding Engineer. I build **AI agents** and **safe AI platforms** with guardrails, testing and tracing. I also build strong **backend systems** using **Node / Express**, **Java**, **Python**, **Kafka** and **Kubernetes (Learning)**. I use AI coding tools like **Claude Code**, **Codex** and **Cursor** to build faster, and I review my teammates' code to keep it clean and easy to maintain using **SOLID principles**. I have helped companies **cut their AI costs, Secure and Evaluate AI Applications** and replace paid tools with our own systems. I am also a **AWS Certified Solutions Architect**.
 
-I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
-<br/>
+### Top projects
+- **Secure AI Agent Platform:** a safe way for teams to use AI models, with guardrails, testing and tracing.
+  *Tech: Python, Claude, OpenAI, Gemini*
+- **Multi-Agent Code Reviewer:** a group of AI agents that review code together.
+  *Tech: Python, LLMs, MCP*
+- **LinkedIn Clone:** a social network built to handle many users.
+  *Tech: Java, Spring Boot, Neo4j, Kafka, Kubernetes (GKE)*
 
+### Tools I use
+- **AI:** Claude, OpenAI, Gemini, MCP, Vector Database
+- **Languages:** Python, Java, TypeScript, JavaScript
+- **Backend:** Spring Boot, Node.js, Kafka, Redis, PostgreSQL, Neo4j
+- **Frontend:** Next.js, React
+- **Cloud:** AWS, Azure, Docker, Kubernetes
 
-### Technologies I have previously worked with:
+### GitHub stats
+<p><img src="https://streak-stats.demolab.com?user=prathmeshsadake&hide_border=true" alt="GitHub streak and total contributions" /></p>
 
-- JavaScript, C/C++, HTML, CSS 3, Python
-- Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
-- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
-- CSS frameworks and libraries like Material UI, Bootstrap, Tailwind CSS
-- CMS such as Strapi and Sanity
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshsadake" alt="prathmeshsadake" /></p>
+### Contact
+You can reach me on [LinkedIn](https://linkedin.com/in/prathmeshsadake) or see my work on my [website](https://prathmeshsadake.me).
